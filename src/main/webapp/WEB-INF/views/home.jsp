@@ -17,6 +17,7 @@
 		<h1>수정한번 해봤습니다.</h1>
 		<h1>한번더 수정해봤습니다.</h1>
 		<h1>마지막으로 수정해볼께요?</h1>
+		<h1>진짜 마지막....</h1>
 		<form action="select" method="post">
 			<p>학생 이름 : <input type="text" name="name" placeholder="학생이름을 영어로 작성하시오.(GD)"></p>
 			<p>학생 IP : <input type="text" name="ip" placeholder="학생 IP를 작성하시오.(192.168.3.?)"></p>
