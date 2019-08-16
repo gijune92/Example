@@ -14,6 +14,7 @@
 <body>
 	<div id="body">
 		<h1>학생 정보 알아보기 실행</h1>
+		<h1>수정한번 해봤습니다.</h1>
 		<form action="select" method="post">
 			<p>학생 이름 : <input type="text" name="name" placeholder="학생이름을 영어로 작성하시오.(GD)"></p>
 			<p>학생 IP : <input type="text" name="ip" placeholder="학생 IP를 작성하시오.(192.168.3.?)"></p>
